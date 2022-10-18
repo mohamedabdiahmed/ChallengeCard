@@ -1,0 +1,50 @@
+html{
+    background-color: gainsboro;
+}
+
+.box{
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    justify-content: center;
+    margin: 20px;
+    transform: translateY(30px)translateX(200px);
+    
+}
+
+.image{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+img{
+    width: 100%;
+}
+.bg{
+    display: flex;
+    align-items: center;
+    background-color: rgb(209, 209, 209);
+    justify-content:space-around;
+    border-radius: 20px;
+}
+.money{
+    transform: translateY(-20px);
+}
+.lorem{
+    letter-spacing: 2px;
+}
+
+button{
+    padding: 20px;
+    margin: 20px;
+    width: 450px;
+    border: 0;
+    background-color: blue;
+    color: white;
+    font-size: 29px;
+}
+h2{
+    text-align: center;
+    font-weight: 800;
+}
